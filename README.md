@@ -4,11 +4,13 @@ Website made with html, css, bootstrap in order to improve myself and gain exper
 
 You can view it by clicking the link below
 <br>
-<a href="https://css-test-project-1.netlify.app/">CLİCK</a>
+<a target="_blank" href="https://css-test-project-1.netlify.app/">CLİCK</a>
 <br>
-css-test-project-1.netlify.app/
+<a target="_blank" href="https://css-test-project-1.netlify.app/">css-test-project-1.netlify.app/</a>
+
 
 
 <b>The site is not mine<br>
-quickdevs.com/templates/farmite/about-us-1.html
+<a target="_blank" href="http://quickdevs.com/templates/farmite/about-us-1.html">quickdevs.com/templates/farmite/about-us-1.html</a>
+
 </b>
